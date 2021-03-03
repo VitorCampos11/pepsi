@@ -1,24 +1,4 @@
-# README 
 
-<h1>Pepsi frontend project</h1>
-
-![Pepsi](https://media.giphy.com/media/eameO0jSp2SxPigzW2/giphy.gif)
-
-<!--ts-->
-
-- [Sobre](#Sobre)
-  Interface frontend Pepsi!
-- [Tecnologias](#tecnologias)
-  HTML5 + CSS3 + JAVASCRIPT
-  ### Features
-
-* [x] Interface
-
-<h4 align="center"> 
-	🚧  Status 🚀 Concluido...  🚧
-</h4>
-
-<h1 align="center">
 
 
   <img width="400px" src="https://user-images.githubusercontent.com/73002258/109804767-64a0bf80-7c01-11eb-9341-a947d4f46ba5.png" />
